@@ -1,0 +1,7 @@
+D:\repositories\Master\Modulo02\Jueves1710\Jueves1710\bin\Debug\Jueves1710.exe.config
+D:\repositories\Master\Modulo02\Jueves1710\Jueves1710\bin\Debug\Jueves1710.exe
+D:\repositories\Master\Modulo02\Jueves1710\Jueves1710\bin\Debug\Jueves1710.pdb
+D:\repositories\Master\Modulo02\Jueves1710\Jueves1710\obj\Debug\Jueves1710.csproj.AssemblyReference.cache
+D:\repositories\Master\Modulo02\Jueves1710\Jueves1710\obj\Debug\Jueves1710.csproj.CoreCompileInputs.cache
+D:\repositories\Master\Modulo02\Jueves1710\Jueves1710\obj\Debug\Jueves1710.exe
+D:\repositories\Master\Modulo02\Jueves1710\Jueves1710\obj\Debug\Jueves1710.pdb

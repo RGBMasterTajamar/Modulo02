@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositories\\Master\\Modulo02\\Jueves1710\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0FCED3-A5CA-4234-839B-4A977ABF201E}|Jueves1710\\Jueves1710.csproj|d:\\repositories\\master\\modulo02\\jueves1710\\jueves1710\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0FCED3-A5CA-4234-839B-4A977ABF201E}|Jueves1710\\Jueves1710.csproj|solutionrelative:jueves1710\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0FCED3-A5CA-4234-839B-4A977ABF201E}|Jueves1710\\Jueves1710.csproj|d:\\repositories\\master\\modulo02\\jueves1710\\jueves1710\\abeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0FCED3-A5CA-4234-839B-4A977ABF201E}|Jueves1710\\Jueves1710.csproj|solutionrelative:jueves1710\\abeja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0FCED3-A5CA-4234-839B-4A977ABF201E}|Jueves1710\\Jueves1710.csproj|d:\\repositories\\master\\modulo02\\jueves1710\\jueves1710\\ivolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0FCED3-A5CA-4234-839B-4A977ABF201E}|Jueves1710\\Jueves1710.csproj|solutionrelative:jueves1710\\ivolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abeja.cs",
+              "DocumentMoniker": "D:\\repositories\\Master\\Modulo02\\Jueves1710\\Jueves1710\\Abeja.cs",
+              "RelativeDocumentMoniker": "Jueves1710\\Abeja.cs",
+              "ToolTip": "D:\\repositories\\Master\\Modulo02\\Jueves1710\\Jueves1710\\Abeja.cs",
+              "RelativeToolTip": "Jueves1710\\Abeja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:26:08.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVolador.cs",
+              "DocumentMoniker": "D:\\repositories\\Master\\Modulo02\\Jueves1710\\Jueves1710\\IVolador.cs",
+              "RelativeDocumentMoniker": "Jueves1710\\IVolador.cs",
+              "ToolTip": "D:\\repositories\\Master\\Modulo02\\Jueves1710\\Jueves1710\\IVolador.cs",
+              "RelativeToolTip": "Jueves1710\\IVolador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:24:27.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositories\\Master\\Modulo02\\Jueves1710\\Jueves1710\\Program.cs",
+              "RelativeDocumentMoniker": "Jueves1710\\Program.cs",
+              "ToolTip": "D:\\repositories\\Master\\Modulo02\\Jueves1710\\Jueves1710\\Program.cs",
+              "RelativeToolTip": "Jueves1710\\Program.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAAAC0BAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:04:36.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

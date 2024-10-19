@@ -1,0 +1,7 @@
+D:\repositories\Master\Modulo02\EjerciciosRepasoC#_Raul_Gonzalez\EjerciciosRepasoC#_Raul_Gonzalez\bin\Debug\EjerciciosRepasoC#_Raul_Gonzalez.exe.config
+D:\repositories\Master\Modulo02\EjerciciosRepasoC#_Raul_Gonzalez\EjerciciosRepasoC#_Raul_Gonzalez\bin\Debug\EjerciciosRepasoC#_Raul_Gonzalez.exe
+D:\repositories\Master\Modulo02\EjerciciosRepasoC#_Raul_Gonzalez\EjerciciosRepasoC#_Raul_Gonzalez\bin\Debug\EjerciciosRepasoC#_Raul_Gonzalez.pdb
+D:\repositories\Master\Modulo02\EjerciciosRepasoC#_Raul_Gonzalez\EjerciciosRepasoC#_Raul_Gonzalez\obj\Debug\EjerciciosRepasoC#_Raul_Gonzalez.csproj.AssemblyReference.cache
+D:\repositories\Master\Modulo02\EjerciciosRepasoC#_Raul_Gonzalez\EjerciciosRepasoC#_Raul_Gonzalez\obj\Debug\EjerciciosRepasoC#_Raul_Gonzalez.csproj.CoreCompileInputs.cache
+D:\repositories\Master\Modulo02\EjerciciosRepasoC#_Raul_Gonzalez\EjerciciosRepasoC#_Raul_Gonzalez\obj\Debug\EjerciciosRepasoC#_Raul_Gonzalez.exe
+D:\repositories\Master\Modulo02\EjerciciosRepasoC#_Raul_Gonzalez\EjerciciosRepasoC#_Raul_Gonzalez\obj\Debug\EjerciciosRepasoC#_Raul_Gonzalez.pdb

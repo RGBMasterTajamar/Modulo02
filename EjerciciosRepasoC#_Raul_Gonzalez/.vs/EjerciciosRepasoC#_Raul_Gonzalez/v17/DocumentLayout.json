@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositories\\Master\\Modulo02\\EjerciciosRepasoC#_Raul_Gonzalez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB493268-7820-45F3-BEB7-9B68BF4165A1}|EjerciciosRepasoC#_Raul_Gonzalez\\EjerciciosRepasoC#_Raul_Gonzalez.csproj|d:\\repositories\\master\\modulo02\\ejerciciosrepasoc#_raul_gonzalez\\ejerciciosrepasoc#_raul_gonzalez\\ejercicio3\\operarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB493268-7820-45F3-BEB7-9B68BF4165A1}|EjerciciosRepasoC#_Raul_Gonzalez\\EjerciciosRepasoC#_Raul_Gonzalez.csproj|solutionrelative:ejerciciosrepasoc#_raul_gonzalez\\ejercicio3\\operarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB493268-7820-45F3-BEB7-9B68BF4165A1}|EjerciciosRepasoC#_Raul_Gonzalez\\EjerciciosRepasoC#_Raul_Gonzalez.csproj|d:\\repositories\\master\\modulo02\\ejerciciosrepasoc#_raul_gonzalez\\ejerciciosrepasoc#_raul_gonzalez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB493268-7820-45F3-BEB7-9B68BF4165A1}|EjerciciosRepasoC#_Raul_Gonzalez\\EjerciciosRepasoC#_Raul_Gonzalez.csproj|solutionrelative:ejerciciosrepasoc#_raul_gonzalez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operarios.cs",
+              "DocumentMoniker": "D:\\repositories\\Master\\Modulo02\\EjerciciosRepasoC#_Raul_Gonzalez\\EjerciciosRepasoC#_Raul_Gonzalez\\Ejercicio3\\Operarios.cs",
+              "RelativeDocumentMoniker": "EjerciciosRepasoC#_Raul_Gonzalez\\Ejercicio3\\Operarios.cs",
+              "ToolTip": "D:\\repositories\\Master\\Modulo02\\EjerciciosRepasoC#_Raul_Gonzalez\\EjerciciosRepasoC#_Raul_Gonzalez\\Ejercicio3\\Operarios.cs",
+              "RelativeToolTip": "EjerciciosRepasoC#_Raul_Gonzalez\\Ejercicio3\\Operarios.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:34:15.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositories\\Master\\Modulo02\\EjerciciosRepasoC#_Raul_Gonzalez\\EjerciciosRepasoC#_Raul_Gonzalez\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosRepasoC#_Raul_Gonzalez\\Program.cs",
+              "ToolTip": "D:\\repositories\\Master\\Modulo02\\EjerciciosRepasoC#_Raul_Gonzalez\\EjerciciosRepasoC#_Raul_Gonzalez\\Program.cs",
+              "RelativeToolTip": "EjerciciosRepasoC#_Raul_Gonzalez\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:37:33.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
