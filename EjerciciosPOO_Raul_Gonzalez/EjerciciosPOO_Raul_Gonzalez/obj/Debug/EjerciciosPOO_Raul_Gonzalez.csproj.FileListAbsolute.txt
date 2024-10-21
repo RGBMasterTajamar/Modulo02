@@ -5,3 +5,10 @@ D:\repositories\Master\Modulo02\EjerciciosPOO_Raul_Gonzalez\EjerciciosPOO_Raul_G
 D:\repositories\Master\Modulo02\EjerciciosPOO_Raul_Gonzalez\EjerciciosPOO_Raul_Gonzalez\obj\Debug\EjerciciosPOO_Raul_Gonzalez.csproj.CoreCompileInputs.cache
 D:\repositories\Master\Modulo02\EjerciciosPOO_Raul_Gonzalez\EjerciciosPOO_Raul_Gonzalez\obj\Debug\EjerciciosPOO_Raul_Gonzalez.exe
 D:\repositories\Master\Modulo02\EjerciciosPOO_Raul_Gonzalez\EjerciciosPOO_Raul_Gonzalez\obj\Debug\EjerciciosPOO_Raul_Gonzalez.pdb
+C:\Users\raulg\Repositories\Master\Modulo02\EjerciciosPOO_Raul_Gonzalez\EjerciciosPOO_Raul_Gonzalez\bin\Debug\EjerciciosPOO_Raul_Gonzalez.exe.config
+C:\Users\raulg\Repositories\Master\Modulo02\EjerciciosPOO_Raul_Gonzalez\EjerciciosPOO_Raul_Gonzalez\bin\Debug\EjerciciosPOO_Raul_Gonzalez.exe
+C:\Users\raulg\Repositories\Master\Modulo02\EjerciciosPOO_Raul_Gonzalez\EjerciciosPOO_Raul_Gonzalez\bin\Debug\EjerciciosPOO_Raul_Gonzalez.pdb
+C:\Users\raulg\Repositories\Master\Modulo02\EjerciciosPOO_Raul_Gonzalez\EjerciciosPOO_Raul_Gonzalez\obj\Debug\EjerciciosPOO_Raul_Gonzalez.csproj.AssemblyReference.cache
+C:\Users\raulg\Repositories\Master\Modulo02\EjerciciosPOO_Raul_Gonzalez\EjerciciosPOO_Raul_Gonzalez\obj\Debug\EjerciciosPOO_Raul_Gonzalez.csproj.CoreCompileInputs.cache
+C:\Users\raulg\Repositories\Master\Modulo02\EjerciciosPOO_Raul_Gonzalez\EjerciciosPOO_Raul_Gonzalez\obj\Debug\EjerciciosPOO_Raul_Gonzalez.exe
+C:\Users\raulg\Repositories\Master\Modulo02\EjerciciosPOO_Raul_Gonzalez\EjerciciosPOO_Raul_Gonzalez\obj\Debug\EjerciciosPOO_Raul_Gonzalez.pdb

@@ -8,24 +8,11 @@ namespace EjerciciosPOO_Raul_Gonzalez.Ejercicio1
 {
     internal class Persona
     {
-        string _nombre;
-
-        public Persona()
-        {
-            _nombre = string.Empty;
-        }
-
-        public void PedirNombre()
-        {
-            Console.Write("Escriba un nombre: ");
-             _nombre = Console.ReadLine();
-        }
-
-     
+        public string Nombre { get; set; }  
 
         public override string ToString()
         {
-            return $"Me llamo {_nombre}";
+            return $"Me llamo {Nombre}";
         }
 
     }
