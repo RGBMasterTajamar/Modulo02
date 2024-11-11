@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BB89B0D9-ACD2-4BA4-BCBA-7E77664C95AD}|EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez.csproj|c:\\users\\raulg\\repositories\\master\\modulo02\\ejerciciospoo_raul_gonzalez\\ejerciciospoo_raul_gonzalez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB89B0D9-ACD2-4BA4-BCBA-7E77664C95AD}|EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez.csproj|solutionrelative:ejerciciospoo_raul_gonzalez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB89B0D9-ACD2-4BA4-BCBA-7E77664C95AD}|EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez.csproj|c:\\users\\raulg\\repositories\\master\\modulo02\\ejerciciospoo_raul_gonzalez\\ejerciciospoo_raul_gonzalez\\ejercicio2\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB89B0D9-ACD2-4BA4-BCBA-7E77664C95AD}|EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez.csproj|solutionrelative:ejerciciospoo_raul_gonzalez\\ejercicio2\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB89B0D9-ACD2-4BA4-BCBA-7E77664C95AD}|EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez.csproj|c:\\users\\raulg\\repositories\\master\\modulo02\\ejerciciospoo_raul_gonzalez\\ejerciciospoo_raul_gonzalez\\ejercicio2\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB89B0D9-ACD2-4BA4-BCBA-7E77664C95AD}|EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez.csproj|solutionrelative:ejerciciospoo_raul_gonzalez\\ejercicio2\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB89B0D9-ACD2-4BA4-BCBA-7E77664C95AD}|EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez.csproj|c:\\users\\raulg\\repositories\\master\\modulo02\\ejerciciospoo_raul_gonzalez\\ejerciciospoo_raul_gonzalez\\ejercicio2\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB89B0D9-ACD2-4BA4-BCBA-7E77664C95AD}|EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez.csproj|solutionrelative:ejerciciospoo_raul_gonzalez\\ejercicio2\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,52 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Profesor.cs",
-              "DocumentMoniker": "C:\\Users\\raulg\\Repositories\\Master\\Modulo02\\EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Profesor.cs",
-              "RelativeDocumentMoniker": "EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Profesor.cs",
-              "ToolTip": "C:\\Users\\raulg\\Repositories\\Master\\Modulo02\\EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Profesor.cs",
-              "RelativeToolTip": "EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Profesor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:40:22.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\raulg\\Repositories\\Master\\Modulo02\\EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Estudiante.cs",
-              "RelativeDocumentMoniker": "EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Estudiante.cs",
-              "ToolTip": "C:\\Users\\raulg\\Repositories\\Master\\Modulo02\\EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Estudiante.cs",
-              "RelativeToolTip": "EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Estudiante.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:37:32.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Personas.cs",
-              "DocumentMoniker": "C:\\Users\\raulg\\Repositories\\Master\\Modulo02\\EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Personas.cs",
-              "RelativeDocumentMoniker": "EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Personas.cs",
-              "ToolTip": "C:\\Users\\raulg\\Repositories\\Master\\Modulo02\\EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Personas.cs",
-              "RelativeToolTip": "EjerciciosPOO_Raul_Gonzalez\\Ejercicio2\\Personas.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:34:22.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\raulg\\Repositories\\Master\\Modulo02\\EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez\\Program.cs",
               "RelativeDocumentMoniker": "EjerciciosPOO_Raul_Gonzalez\\Program.cs",
               "ToolTip": "C:\\Users\\raulg\\Repositories\\Master\\Modulo02\\EjerciciosPOO_Raul_Gonzalez\\EjerciciosPOO_Raul_Gonzalez\\Program.cs",
               "RelativeToolTip": "EjerciciosPOO_Raul_Gonzalez\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwDMAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwC8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T15:50:31.045Z",
               "EditorCaption": ""

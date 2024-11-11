@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Northwind">
+  <DataContextMoniker Name="/NorthwindDataContext" />
+  <nestedChildShapes>
+    <classShape Id="583cb8cc-0953-4e85-a956-7fdcb9263403" absoluteBounds="3.625, 1.375, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/NorthwindDataContext/Customers" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c40a9c39-b78b-45af-96c9-c2b3f0ed397f" absoluteBounds="3.64, 1.835, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3ea65692-f712-40f6-b40d-1e05f1c56c9e" absoluteBounds="6.875, 2.625, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/NorthwindDataContext/Orders" />
+      <nestedChildShapes>
+        <elementListCompartment Id="689cbc9d-1364-48de-90f6-d38318285297" absoluteBounds="6.89, 3.085, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.625 : 3.46235270182292); (6.875 : 3.46235270182292)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorthwindDataContext/Customers/Customers_Orders" />
+      <nodes>
+        <classShapeMoniker Id="583cb8cc-0953-4e85-a956-7fdcb9263403" />
+        <classShapeMoniker Id="3ea65692-f712-40f6-b40d-1e05f1c56c9e" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="09bf613e-c36c-4432-9e97-80db734ba592" absoluteBounds="7.5, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/NorthwindDataContext/Users" />
+      <nestedChildShapes>
+        <elementListCompartment Id="57d7e21a-3e7b-48ed-b02e-ac7633c99d2d" absoluteBounds="7.5150000000000006, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,100 @@
+﻿/* Contenedor principal usando CSS Grid */
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr; /* Dos columnas: formulario y lista */
+    gap: 20px;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Estilo de la sección del formulario */
+.form-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo de la sección de la lista de productos */
+.list-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos de los elementos del formulario */
+.form-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-container input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-container button {
+    padding: 8px 12px;
+    margin-right: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .form-container button:hover {
+        background-color: #45a049;
+    }
+
+.form-container select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+    /* Agregar un estilo cuando el dropdown está enfocado */
+    .form-container select:focus {
+        border-color: #5b9bd5; /* Cambiar el color del borde cuando está enfocado */
+        outline: none; /* Elimina el borde por defecto del enfoque */
+    }
+
+/* Estilos de la lista de productos */
+.product-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+    .product-item:last-child {
+        border-bottom: none;
+    }
+
+#productosList button {
+    padding: 10px 20px; /* Espaciado dentro del botón */
+    font-size: 10px; /* Tamaño de fuente */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor a mano */
+    transition: all 0.3s ease; /* Transición suave al pasar el mouse */
+}
+
+.botonEditar {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.botonBorrar {
+    background-color: red;
+    color: white
+}
